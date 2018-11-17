@@ -1,1 +1,9 @@
-#includgygehjg goh hov,mkh:ahttps://github.com/Saad2714/test.git
+#include<stdio.h>
+int main()
+{
+printf("Hello world!");
+return 0;
+}
+
+
+
